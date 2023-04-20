@@ -15,7 +15,7 @@
     <ul>
       <li>
         <a
-          href="../#/phonetest"
+          href="./index.html#/phonetest"
           target="_blank"
         >
         测试页面
